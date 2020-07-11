@@ -1,5 +1,5 @@
 # Extra-Storage-App
-Extra Storage - neighbour storage space renting app /n
+Extra Storage - neighbour storage space renting app
 
 [![Extra Storage video](https://img.youtube.com/vi/AIXLKEm-SjE/0.jpg)](https://www.youtube.com/watch?v=AIXLKEm-SjE)
 
